@@ -1,10 +1,10 @@
 ## Boas vindas ao meu perfil 
 Meu nome é Victor Machado
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem de programação
-Estudo no colegio Germano Stédile
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fpt%2Fgifs%2Fraposa-animal-pular-sondagem-4290%2F&psig=AOvVaw1kQxQXg2cyruCUOlJNG3Cs&ust=1719928819372000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjiiKSAhocDFQAAAAAdAAAAABAJ](link)
+-Estou estudando na Alura
+-Estou me desenvolvendo na linguagem de programação
+-Estudo no colegio Germano Stédile
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fpt%2Fgifs%2Fraposa-animal-pular-sondagem-4290%2F&psig=AOvVaw1kQxQXg2cyruCUOlJNG3Cs&ust=1719928819372000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjiiKSAhocDFQAAAAAdAAAAABAJ)
 
 
 <!--
